@@ -1,7 +1,7 @@
-<img width="307" height="683" alt="Splash" src="https://github.com/user-attachments/assets/93e28d34-996f-48ac-9995-f9a4b2780f99" /><br>
+<img width="154" height="342" alt="Splash" src="https://github.com/user-attachments/assets/93e28d34-996f-48ac-9995-f9a4b2780f99" /><br>
 
-<img width="307" height="683" alt="Home" src="https://github.com/user-attachments/assets/d62c99b3-c638-4df6-9c75-e3231be3f4ef" />
-<img width="324" height="625" alt="annotation" src="https://github.com/user-attachments/assets/bd06bc0b-0788-470f-b45c-c23561767b7b" />
+<img width="154" height="342" alt="Home" src="https://github.com/user-attachments/assets/d62c99b3-c638-4df6-9c75-e3231be3f4ef" />
+<img width="162" height="313" alt="annotation" src="https://github.com/user-attachments/assets/bd06bc0b-0788-470f-b45c-c23561767b7b" />
 
 
 참조항목.
