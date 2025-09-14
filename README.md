@@ -14,3 +14,5 @@ C# .NET Core 8.0
 UI Avalonia작성. MVVM Community Tool Kit 사용.
 
 Prototype Penpot.
+
+목표 실행환경. Windows/Linux Desktop, 안드로이드 환경.
