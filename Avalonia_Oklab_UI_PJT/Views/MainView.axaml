@@ -1,0 +1,38 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:Avalonia_Oklab_UI_PJT.ViewModels"
+             xmlns:skia="clr-namespace:Avalonia_Oklab_UI_PJT.Skia"
+             mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="900"
+             x:Class="Avalonia_Oklab_UI_PJT.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel />
+  </Design.DataContext>
+
+
+	<!-- Background Binding할것.-->
+    <Grid Background="#FF181819">
+		<Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+			<RowDefinition Height="*" />
+		</Grid.RowDefinitions>
+
+        <Panel Grid.Row="0">
+            <skia:SkiaModel />
+		</Panel>
+
+        <Panel Grid.Row="1">
+            <Label Content="Test Text" Foreground="AliceBlue"/>
+        </Panel>
+
+
+
+	</Grid>
+
+
+
+</UserControl>
